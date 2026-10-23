@@ -9,7 +9,6 @@ Flutter, Dart, `sqflite` (SQLite - data transaksi), `shared_preferences` (anggar
 
 ## Menjalankan
 ```
-flutter create .   # generate folder android/ios (sekali saja)
 flutter pub get
 flutter run
 ```
